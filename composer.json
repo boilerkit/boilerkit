@@ -7,13 +7,10 @@
             "email": "branden.garrett@gmail.com"
         }
     ],
-    "bin": [
-        "craft"
-    ],
     "require": {
-        "boilerkit/nginx": "dev-develop",
-        "boilerkit/php": "dev-develop",
-        "boilerkit/postgres": "dev-develop",
-        "boilerkit/redis": "dev-develop"
+        "boilerkit/nginx": "^1.0.0",
+        "boilerkit/php": "^1.0.0",
+        "boilerkit/postgres": "^1.0.0",
+        "boilerkit/redis": "^1.0.0"
     }
 }
